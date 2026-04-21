@@ -58,7 +58,7 @@ class HumanEscalationAgent(BaseAgent):
         session_id = state.get("session_id", "UNKNOWN")
         customer_id = state.get("user_id")
         tool_calls = list(state.get("tool_calls", []))
-        escalation_reason = state.get("escalation_reason", "manual")
+        escalation_reason = state.get("escalation_reason") or "manual"
 
         # ── Build raw context summary ──────────────────────────────────────
         messages = state.get("messages", [])

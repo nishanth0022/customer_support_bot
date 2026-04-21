@@ -1,0 +1,144 @@
+{
+  "faqs": [
+    {
+      "id": "faq-001",
+      "category": "returns",
+      "question": "What is your return policy?",
+      "answer": "You can return most items within 30 days of delivery for a full refund. Items must be unused, in original packaging, and accompanied by the order receipt. Some categories such as electronics and perishables have different return windows — please check the product page for details.",
+      "keywords": ["return", "returns", "return policy", "send back", "exchange", "30 days"]
+    },
+    {
+      "id": "faq-002",
+      "category": "shipping",
+      "question": "How long does standard shipping take?",
+      "answer": "Standard shipping typically takes 5–7 business days. Expedited shipping (2–3 business days) and overnight shipping are also available at checkout for an additional fee.",
+      "keywords": ["shipping", "delivery time", "how long", "when will it arrive", "standard shipping"]
+    },
+    {
+      "id": "faq-003",
+      "category": "shipping",
+      "question": "Do you offer free shipping?",
+      "answer": "Yes! Orders over $50 qualify for free standard shipping. Prime members enjoy free shipping on all orders regardless of total.",
+      "keywords": ["free shipping", "shipping cost", "no shipping fee", "free delivery", "shipping fee"]
+    },
+    {
+      "id": "faq-004",
+      "category": "refunds",
+      "question": "How long does a refund take to process?",
+      "answer": "Once your return is received and inspected, refunds are typically processed within 3–5 business days. The credit will appear on your original payment method within 5–10 business days depending on your bank.",
+      "keywords": ["refund time", "how long refund", "when will I get my money back", "refund processing", "credit"]
+    },
+    {
+      "id": "faq-005",
+      "category": "account",
+      "question": "How do I reset my password?",
+      "answer": "Visit the login page and click 'Forgot Password'. Enter your registered email address and we will send a password reset link within a few minutes. Check your spam folder if you don't see it in your inbox.",
+      "keywords": ["password", "reset password", "forgot password", "can't login", "account access"]
+    },
+    {
+      "id": "faq-006",
+      "category": "orders",
+      "question": "Can I cancel or modify my order?",
+      "answer": "Orders can be cancelled or modified within 1 hour of placement. After that, the order enters our fulfilment process and can no longer be changed. Please contact support immediately if you need to make changes.",
+      "keywords": ["cancel order", "modify order", "change order", "cancel", "edit order"]
+    },
+    {
+      "id": "faq-007",
+      "category": "payment",
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit and debit cards (Visa, Mastercard, American Express, Discover), PayPal, Apple Pay, Google Pay, and shop-now-pay-later options like Klarna and Afterpay.",
+      "keywords": ["payment", "pay", "credit card", "debit card", "paypal", "apple pay", "google pay", "payment methods"]
+    },
+    {
+      "id": "faq-008",
+      "category": "shipping",
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to over 50 countries worldwide. International shipping times vary by destination (typically 7–21 business days). Customs duties and taxes may apply and are the responsibility of the recipient.",
+      "keywords": ["international", "ship internationally", "overseas", "outside US", "global shipping"]
+    },
+    {
+      "id": "faq-009",
+      "category": "returns",
+      "question": "How do I start a return?",
+      "answer": "To start a return: 1) Log into your account, 2) Go to Order History, 3) Select the order and click 'Return Items', 4) Choose the item(s) and reason, 5) Print the prepaid return label and drop off at any participating carrier location.",
+      "keywords": ["how to return", "start return", "return process", "return label", "how do I return"]
+    },
+    {
+      "id": "faq-010",
+      "category": "account",
+      "question": "How do I update my shipping address?",
+      "answer": "You can update your default shipping address in Account Settings > Addresses. Note that addresses cannot be changed on orders that have already shipped.",
+      "keywords": ["address", "change address", "update address", "shipping address", "delivery address"]
+    },
+    {
+      "id": "faq-011",
+      "category": "payment",
+      "question": "Is it safe to use my credit card on your site?",
+      "answer": "Absolutely. Our site uses 256-bit SSL encryption and is PCI DSS Level 1 compliant, the highest level of payment security certification. We never store your full card number on our servers.",
+      "keywords": ["secure", "safe", "security", "credit card safe", "ssl", "encryption", "pci"]
+    },
+    {
+      "id": "faq-012",
+      "category": "orders",
+      "question": "What if I received the wrong item?",
+      "answer": "We're sorry for the mix-up! Please contact us within 7 days of delivery. Send a photo of the item received with your order number. We will send the correct item at no charge and arrange a free return pickup.",
+      "keywords": ["wrong item", "incorrect item", "received wrong", "wrong product", "mistake"]
+    },
+    {
+      "id": "faq-013",
+      "category": "orders",
+      "question": "What if my item arrived damaged?",
+      "answer": "If your item arrives damaged, please contact us within 48 hours of delivery. Take photos of the damage and the packaging. We will arrange a replacement or full refund. Do not discard the original packaging until the issue is resolved.",
+      "keywords": ["damaged", "broken", "item damaged", "arrived broken", "defective"]
+    },
+    {
+      "id": "faq-014",
+      "category": "account",
+      "question": "How do I track my order?",
+      "answer": "You can track your order by: 1) Logging into your account and going to Order History, or 2) Using the tracking number in your shipment confirmation email on the carrier's website.",
+      "keywords": ["track order", "tracking", "where is my order", "order status", "shipment tracking"]
+    },
+    {
+      "id": "faq-015",
+      "category": "refunds",
+      "question": "Can I get a refund if I change my mind?",
+      "answer": "Yes, within our 30-day return window. The item must be unused and in original packaging. Return shipping is free for most items. Final-sale and clearance items are not eligible for refund.",
+      "keywords": ["change my mind", "don't want it", "no longer need", "mind changed", "want to return"]
+    },
+    {
+      "id": "faq-016",
+      "category": "loyalty",
+      "question": "Do you have a loyalty or rewards program?",
+      "answer": "Yes! Our ShopRewards program gives you 1 point per dollar spent. Every 100 points equals $1 off a future purchase. You also earn bonus points on your birthday and for writing product reviews.",
+      "keywords": ["loyalty", "rewards", "points", "shoprewards", "earn points", "discount", "membership"]
+    },
+    {
+      "id": "faq-017",
+      "category": "shipping",
+      "question": "What happens if I miss my delivery?",
+      "answer": "If you miss a delivery, the carrier will typically leave a notice and attempt redelivery on the next business day. You can also schedule a pickup at a carrier location or request redelivery online using your tracking number.",
+      "keywords": ["missed delivery", "missed package", "not home", "redelivery", "pickup"]
+    },
+    {
+      "id": "faq-018",
+      "category": "orders",
+      "question": "Why was my order cancelled?",
+      "answer": "Orders may be cancelled due to: payment failure, item going out of stock, suspected fraudulent activity, or a customer request. You will always receive an email with the specific reason. A full refund is issued automatically for any cancelled order.",
+      "keywords": ["why cancelled", "order cancelled", "cancelled order", "why was my order", "automatic refund"]
+    },
+    {
+      "id": "faq-019",
+      "category": "account",
+      "question": "How do I delete my account?",
+      "answer": "To request account deletion, please contact our support team. We will process the request within 7 business days. Note that order history and associated data will be permanently removed.",
+      "keywords": ["delete account", "close account", "remove account", "deactivate", "account deletion"]
+    },
+    {
+      "id": "faq-020",
+      "category": "payment",
+      "question": "Can I use multiple discount codes on one order?",
+      "answer": "Only one promotional or discount code can be applied per order. However, you can still combine a discount code with your ShopRewards points balance.",
+      "keywords": ["discount code", "promo code", "coupon", "multiple codes", "combine codes", "voucher"]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD-001",
+      "customer_id": "CUST-100",
+      "status": "shipped",
+      "items": [
+        {"sku": "SHOE-42-BLK", "name": "Running Shoes Black", "qty": 1, "price": 85.99}
+      ],
+      "total": 85.99,
+      "placed_at": "2026-04-15T10:00:00Z",
+      "estimated_delivery": "2026-04-22T18:00:00Z",
+      "tracking_number": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "shipping_address": "123 Main St, Springfield, IL, 62701"
+    },
+    {
+      "order_id": "ORD-002",
+      "customer_id": "CUST-100",
+      "status": "delivered",
+      "items": [
+        {"sku": "SHIRT-M-BLU", "name": "Blue Oxford Shirt", "qty": 2, "price": 29.99}
+      ],
+      "total": 59.98,
+      "placed_at": "2026-04-08T14:30:00Z",
+      "estimated_delivery": "2026-04-13T18:00:00Z",
+      "delivered_at": "2026-04-13T15:45:00Z",
+      "tracking_number": "1Z999AA10123456785",
+      "carrier": "UPS",
+      "shipping_address": "123 Main St, Springfield, IL, 62701"
+    },
+    {
+      "order_id": "ORD-003",
+      "customer_id": "CUST-101",
+      "status": "delivered",
+      "items": [
+        {"sku": "LAPTOP-PRO-15", "name": "ProBook Laptop 15\"", "qty": 1, "price": 1249.00}
+      ],
+      "total": 1249.00,
+      "placed_at": "2026-04-01T09:00:00Z",
+      "delivered_at": "2026-04-05T11:00:00Z",
+      "tracking_number": "1Z999AA10123456786",
+      "carrier": "FedEx",
+      "shipping_address": "456 Oak Ave, Austin, TX, 78701"
+    },
+    {
+      "order_id": "ORD-004",
+      "customer_id": "CUST-102",
+      "status": "processing",
+      "items": [
+        {"sku": "HDR-WL-BLK", "name": "Wireless Headphones", "qty": 1, "price": 149.99}
+      ],
+      "total": 149.99,
+      "placed_at": "2026-04-20T16:00:00Z",
+      "estimated_delivery": "2026-04-25T18:00:00Z",
+      "tracking_number": null,
+      "carrier": "USPS",
+      "shipping_address": "789 Pine Rd, Denver, CO, 80201"
+    },
+    {
+      "order_id": "ORD-005",
+      "customer_id": "CUST-100",
+      "status": "cancelled",
+      "items": [
+        {"sku": "CAM-DSLR-24", "name": "DSLR Camera 24MP", "qty": 1, "price": 599.00}
+      ],
+      "total": 599.00,
+      "placed_at": "2026-04-18T12:00:00Z",
+      "cancelled_at": "2026-04-19T08:00:00Z",
+      "cancel_reason": "Customer requested cancellation",
+      "tracking_number": null,
+      "carrier": null,
+      "shipping_address": "123 Main St, Springfield, IL, 62701"
+    },
+    {
+      "order_id": "ORD-006",
+      "customer_id": "CUST-103",
+      "status": "shipped",
+      "items": [
+        {"sku": "WATCH-SMART-GLD", "name": "SmartWatch Gold", "qty": 1, "price": 299.00}
+      ],
+      "total": 299.00,
+      "placed_at": "2026-04-17T11:00:00Z",
+      "estimated_delivery": "2026-04-23T18:00:00Z",
+      "tracking_number": "1Z999AA10123456787",
+      "carrier": "FedEx",
+      "shipping_address": "321 Elm St, Seattle, WA, 98101"
+    },
+    {
+      "order_id": "ORD-007",
+      "customer_id": "CUST-104",
+      "status": "delivered",
+      "items": [
+        {"sku": "BOOK-PYTH-ADV", "name": "Advanced Python Programming", "qty": 3, "price": 39.99}
+      ],
+      "total": 119.97,
+      "placed_at": "2026-04-10T10:00:00Z",
+      "delivered_at": "2026-04-14T12:30:00Z",
+      "tracking_number": "1Z999AA10123456788",
+      "carrier": "USPS",
+      "shipping_address": "654 Birch Blvd, Boston, MA, 02101"
+    },
+    {
+      "order_id": "ORD-008",
+      "customer_id": "CUST-105",
+      "status": "return_requested",
+      "items": [
+        {"sku": "JACKET-L-RED", "name": "Winter Jacket Red", "qty": 1, "price": 189.00}
+      ],
+      "total": 189.00,
+      "placed_at": "2026-04-05T08:00:00Z",
+      "delivered_at": "2026-04-09T14:00:00Z",
+      "return_requested_at": "2026-04-19T10:00:00Z",
+      "return_reason": "Wrong size",
+      "tracking_number": "1Z999AA10123456789",
+      "carrier": "UPS",
+      "shipping_address": "987 Cedar Lane, Miami, FL, 33101"
+    },
+    {
+      "order_id": "ORD-009",
+      "customer_id": "CUST-106",
+      "status": "delivered",
+      "items": [
+        {"sku": "PHONE-X12-BLK", "name": "Smartphone X12", "qty": 1, "price": 45.00}
+      ],
+      "total": 45.00,
+      "placed_at": "2026-04-12T15:00:00Z",
+      "delivered_at": "2026-04-16T13:00:00Z",
+      "tracking_number": "1Z999AA10123456790",
+      "carrier": "FedEx",
+      "shipping_address": "111 Maple Dr, Portland, OR, 97201"
+    },
+    {
+      "order_id": "ORD-010",
+      "customer_id": "CUST-107",
+      "status": "shipped",
+      "items": [
+        {"sku": "SOFA-3S-GRY", "name": "3-Seater Sofa Grey", "qty": 1, "price": 899.00}
+      ],
+      "total": 899.00,
+      "placed_at": "2026-04-14T09:00:00Z",
+      "estimated_delivery": "2026-04-28T18:00:00Z",
+      "tracking_number": "1Z999AA10123456791",
+      "carrier": "FreightCo",
+      "shipping_address": "222 Spruce Way, Chicago, IL, 60601"
+    }
+  ],
+  "customer_tokens": {
+    "tok-cust-100": "CUST-100",
+    "tok-cust-101": "CUST-101",
+    "tok-cust-102": "CUST-102",
+    "tok-cust-103": "CUST-103",
+    "tok-cust-104": "CUST-104",
+    "tok-cust-105": "CUST-105",
+    "tok-cust-106": "CUST-106",
+    "tok-cust-107": "CUST-107"
+  }
+}
